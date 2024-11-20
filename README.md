@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackematrix)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hackematrix)
+
 
 
