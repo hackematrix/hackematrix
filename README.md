@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix)
+
