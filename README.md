@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix)
+![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix&bg_color=1a1b26&color=c0caf5&line=bb9af7&point=7dc4e4&area=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackematrix&layout=compact&theme=dark&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackematrix&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
