@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackematrix&layout=compact&theme=dark&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=hackematrix)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackematrix&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img src="https://img.shields.io/badge/-Javascript-ffea00?style=flat-square&amp;logo=javascript&amp;logoColor=000000" />
 <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> 
