@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MATLAB-007BFF?style=flat-square&logo=matlab" />
 
 
+### Languages and Tools  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,rust" />
+  </a>
+</p>
 
 
 
