@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackematrix)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackematrix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackematrix&layout=compact&theme=dark&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hackematrix)
 <br>
-<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Javascript-ffea00?style=flat-square&amp;logo=javascript&amp;logoColor=000000" />
 <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" /> 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
